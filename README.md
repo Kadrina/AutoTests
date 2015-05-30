@@ -1,1 +1,1 @@
-# TestMyAccount
+# AutoTests
